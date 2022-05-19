@@ -8,13 +8,14 @@ import DataDisplay from './pages/data_display';
 
 function App() {
   return (
-      <BrowserRouter>
-        <Routes>
-          <Route path='/' element={<MovieChoice/>}/>
-          <Route path='/data' element={<DataDisplay/>}/>
-        </Routes>
-      
-      </BrowserRouter>
+    // eslint-disable-next-line react/jsx-filename-extension
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<MovieChoice />} />
+        <Route path="/data" element={<DataDisplay />} />
+      </Routes>
+
+    </BrowserRouter>
   );
 }
 
