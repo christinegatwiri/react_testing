@@ -1,0 +1,2 @@
+{"/Users/twixy/Desktop/Projects/testing/src/App.js": {"path":"/Users/twixy/Desktop/Projects/testing/src/App.js","statementMap":{"0":{"start":{"line":10,"column":2},"end":{"line":18,"column":4}}},"fnMap":{"0":{"name":"App","decl":{"start":{"line":9,"column":9},"end":{"line":9,"column":12}},"loc":{"start":{"line":9,"column":15},"end":{"line":19,"column":1}},"line":9}},"branchMap":{},"s":{"0":2},"f":{"0":2},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"38ad5a6dac1153ea1417ac4b50ff97f43a0bcb38"}
+}
