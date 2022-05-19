@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "title":"Building a react app",
+        "category":"react",
+        "description":"very nice course btw"
+    },
+    {
+        "id":2,
+        "title":"Building a django app",
+        "category":"django",
+        "description":"very nice course though"
+    }
+]
