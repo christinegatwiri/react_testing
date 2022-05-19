@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 function MovieChoice() {
   const [user] = useState(true);
 
-  //mapping function
+  // mapping function
   const myMovies = ['shawshank','fight club', 'dark knight'];
 
   const movie_list = myMovies.map(movie =>
